@@ -42,8 +42,10 @@ Currently leading development of **DigCare**—a digital telehealth platform con
 
 ## 📈 GitHub Stats
 
-![Haaris's GitHub stats](https://github-readme-stats.vercel.app/api?username=haariswaqas&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haariswaqas&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haariswaqas&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haariswaqas&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180"/>
+</div>
 
 ---
 
