@@ -4,7 +4,7 @@
 
 I build robust, scalable web and mobile applications that solve real problems. From MVPs to production-grade platforms, I deliver clean code and exceptional user experiences using modern technology stacks.
 
-Currently leading development of **DigCare**—a digital telehealth platform connecting patients and healthcare providers seamlessly.
+Currently leading development of **DigCare**—a digital telehealth platform connecting patients and healthcare providers seamlessly across the country.
 
 ---
 
