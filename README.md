@@ -1,4 +1,4 @@
-# 💫 About Me
+# Hi, I'm Haaris
 
 **Full-Stack & Mobile Developer | Lead Developer @ DigCare**
 
