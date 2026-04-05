@@ -38,11 +38,11 @@ Currently leading development of **DigCare**—a digital telehealth platform con
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=haariswaqas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-iota-three-71.vercel.app/api?username=haariswaqas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=haariswaqas&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haariswaqas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-iota-three-71.vercel.app/api/top-langs/?username=haariswaqas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
