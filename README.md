@@ -1,6 +1,6 @@
 # Hi, I'm Haaris
 
-**Full-Stack & Mobile Developer | Lead Developer @ DigCare**
+**Full-Stack & Mobile Developer**
 
 I build robust, scalable web and mobile applications that solve real problems. From MVPs to production-grade platforms, I deliver clean code and exceptional user experiences using modern technology stacks.
 
